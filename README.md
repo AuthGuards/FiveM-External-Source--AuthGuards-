@@ -1,6 +1,6 @@
 # Fivem-External
 
-**Made by yusi**
+**Made by Yusei**
 
 ---
 
